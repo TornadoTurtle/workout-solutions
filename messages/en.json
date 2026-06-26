@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "title": "Workout Solutions by Roy — World Class Lifestyle Coaching",
+    "description": "Roy Fokken — international online coach. 20+ years, 4× World Champion, World Record Benchpresser. Coaching beginners, women, kids, athletes, fighters, and actors across three continents."
+  },
+  "nav": {
+    "brand": "WORKOUT SOLUTIONS",
+    "brandSub": "by Roy",
+    "links": {
+      "about": "About",
+      "program": "Program",
+      "contact": "Contact"
+    },
+    "cta": "Book a Consultation"
+  },
+  "languageSwitcher": {
+    "label": "Language",
+    "en": "EN",
+    "de": "DE",
+    "es": "ES",
+    "comingSoon": "Coming soon"
+  },
+  "hero": {
+    "eyebrow": "4× World Champion · 20+ Years · 3 Continents",
+    "motto": "You are born frail and weak and you will die frail and weak — what you look like in between is up to you.",
+    "subline": "World class coaching for everyone — first-timers, women, men, and kids; beginners, athletes, fighters, and actors. Online, from Germany to North America.",
+    "cta": "Book a Consultation",
+    "ctaSub": "Direct email to Roy — no funnel.",
+    "photoAlt": "Roy Fokken — coach"
+  },
+  "credentials": {
+    "eyebrow": "The record",
+    "title": "Two decades. Two sports. One standard.",
+    "stats": {
+      "champion": {
+        "value": "4×",
+        "label": "World Champion"
+      },
+      "worldRecord": {
+        "value": "WR",
+        "label": "World Record Benchpresser"
+      },
+      "years": {
+        "value": "20+",
+        "label": "Years Coaching"
+      },
+      "continents": {
+        "value": "3",
+        "label": "Continents — USA, Canada, Mexico, Germany"
+      }
+    },
+    "powerlifting": {
+      "title": "Powerlifting",
+      "items": [
+        "WNPF National (USA) Champion 1999 & 2000",
+        "WNPF World Champion 1999 & 2000",
+        "WNPF Lifter of the Year 1999–2000",
+        "AAU National (USA) World Champion 1999",
+        "IPA World Champion 2000",
+        "CPA Canadian-American Benchpress Champion 2001",
+        "World Record Benchpresser",
+        "Powerlifting USA Magazine — Achievement Awards (165 / 132 lbs)"
+      ]
+    },
+    "bodybuilding": {
+      "title": "Bodybuilding",
+      "items": [
+        "NPC Mister Philadelphia",
+        "NPC Pennsylvania Champion",
+        "NPC Philadelphia Champion",
+        "NPC North Coast Champion",
+        "NPC East Coast Champion",
+        "NABBA Keystone Lightweight Champion",
+        "WBFF British Columbia Lightweight Champion"
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "About Roy",
+    "title": "Born in Germany. Made on three continents.",
+    "paragraphs": [
+      "Roy Fokken was born and raised in Germany, moved to North America in 1993, and is now back in Germany — coaching internationally online for clients across the USA, Canada, Mexico, and Germany.",
+      "Certified Personal Trainer with more than 20 years of experience. Four-time World Champion in powerlifting, World Record Benchpresser, NPC and NABBA titles in bodybuilding. The titles are the receipt — the work is the point.",
+      "Roy coaches the full spectrum: first-timers and lifelong lifters, women and men, kids and pros. His most loyal clients include women who came in as beginners and stayed for life."
+    ],
+    "photoAlt": "Roy Fokken"
+  },
+  "whoRoyTrains": {
+    "eyebrow": "Who Roy trains",
+    "title": "From first-timers to world champions.",
+    "subline": "Women, men, and kids. Beginners, athletes, fighters, and actors. The program meets you where you are — and pushes you further than you thought.",
+    "groups": [
+      {"key": "beginners", "label": "Beginners"},
+      {"key": "women", "label": "Women"},
+      {"key": "kids", "label": "Kids"},
+      {"key": "athletes", "label": "Athletes"},
+      {"key": "fighters", "label": "Fighters"},
+      {"key": "actors", "label": "Actors"},
+      {"key": "lifters", "label": "Pro Lifters"},
+      {"key": "bodybuilders", "label": "Bodybuilders"}
+    ]
+  },
+  "programTeaser": {
+    "eyebrow": "The program",
+    "title": "12 weeks. Three phases. One transformation.",
+    "subline": "Foundation, Build, Peak. Online coaching with direct email access to Roy, nutrition recalibration, and weekly accountability.",
+    "cta": "See the 12-week program"
+  },
+  "beforeAfter": {
+    "eyebrow": "Results",
+    "title": "Before · After",
+    "placeholderLabel": "PLACEHOLDER — real client results coming soon",
+    "before": "Before",
+    "after": "After",
+    "caption": "Roy will replace these with his first client batch."
+  },
+  "testimonials": {
+    "eyebrow": "In their words",
+    "title": "Clients talk.",
+    "placeholderLabel": "PLACEHOLDER — real testimonials coming soon",
+    "items": [
+      {
+        "quote": "[Placeholder testimonial — real client quote to follow.]",
+        "name": "Client Name",
+        "role": "Beginner · 12 weeks"
+      },
+      {
+        "quote": "[Placeholder testimonial — real client quote to follow.]",
+        "name": "Client Name",
+        "role": "Returning athlete · 24 weeks"
+      },
+      {
+        "quote": "[Placeholder testimonial — real client quote to follow.]",
+        "name": "Client Name",
+        "role": "Mother of two · 16 weeks"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Start",
+    "title": "Book a Consultation",
+    "subline": "Email Roy directly. Tell him where you are, what you want, and the rest is a conversation.",
+    "cta": "Email Roy",
+    "ctaSub": "Replaces with Roy's real address once confirmed."
+  },
+  "footer": {
+    "brand": "WORKOUT SOLUTIONS",
+    "brandSub": "by Roy",
+    "tagline": "World Class Lifestyle Coaching — international, online.",
+    "languages": "EN · DE · ES (coming)",
+    "copyright": "© Roy Fokken. All rights reserved."
+  },
+  "program": {
+    "hero": {
+      "eyebrow": "The 12-week program",
+      "title": "Foundation → Build → Peak.",
+      "subline": "Three phases over twelve weeks. Online coaching with direct email access to Roy, weekly check-ins, and nutrition recalibration. The outline below is provisional — Roy refines each program to the individual."
+    },
+    "provisionalNote": "Provisional outline. Roy adjusts every phase to your starting point, goals, and feedback.",
+    "phase1": {
+      "label": "Phase 1",
+      "weeks": "Weeks 1–4",
+      "title": "Foundation",
+      "bullets": [
+        "Full assessment — strength, mobility, history, goals.",
+        "Form mastery on the core lifts.",
+        "Build the weekly rhythm and recovery habit.",
+        "First checkpoint at the end of Week 4."
+      ]
+    },
+    "phase2": {
+      "label": "Phase 2",
+      "weeks": "Weeks 5–8",
+      "title": "Build",
+      "bullets": [
+        "Progressive overload — volume and intensity step up.",
+        "Mid-program assessment.",
+        "Nutrition recalibration to match the new output.",
+        "Begin specialization conversation."
+      ]
+    },
+    "phase3": {
+      "label": "Phase 3",
+      "weeks": "Weeks 9–12",
+      "title": "Peak",
+      "bullets": [
+        "Specialization — strength track or aesthetics track.",
+        "Peak phase tuned to your target.",
+        "Final reveal.",
+        "Long-term roadmap for the next 12 weeks."
+      ]
+    },
+    "throughout": {
+      "title": "Throughout the program",
+      "items": [
+        "Direct email access to Roy.",
+        "Nutrition adjustment as the body responds.",
+        "Weekly accountability — you are not coaching yourself."
+      ]
+    },
+    "cta": "Book a Consultation",
+    "back": "← Back to the home page"
+  }
+}

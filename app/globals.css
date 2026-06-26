@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@source "../app";
+@source "../components";
+
+@theme {
+  --color-forge-black: #0C0C0E;
+  --color-surface: #15141A;
+  --color-raised: #1D1C24;
+  --color-gold: #C8A14B;
+  --color-gold-bright: #E6C260;
+  --color-bronze: #9C6B3C;
+  --color-bone: #EFEBE3;
+  --color-ash: #8E8A82;
+
+  --font-display: var(--font-bodoni-moda), Georgia, "Times New Roman", serif;
+  --font-body: var(--font-archivo), system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+html {
+  background: var(--color-forge-black);
+  color: var(--color-bone);
+}
+
+body {
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--color-forge-black);
+  color: var(--color-bone);
+}
+
+::selection {
+  background: var(--color-gold);
+  color: var(--color-forge-black);
+}
+
+.font-display { font-family: var(--font-display); }
+.font-body { font-family: var(--font-body); }
+
+.eyebrow {
+  font-family: var(--font-body);
+  text-transform: uppercase;
+  letter-spacing: 0.28em;
+  font-size: 0.72rem;
+  color: var(--color-ash);
+}
+
+.hairline {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-gold) 30%, var(--color-gold) 70%, transparent);
+  opacity: 0.5;
+}
