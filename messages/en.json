@@ -148,7 +148,8 @@
     "brandSub": "by Roy",
     "tagline": "World Class Lifestyle Coaching — international, online.",
     "languages": "EN · DE · ES (coming)",
-    "copyright": "© Roy Fokken. All rights reserved."
+    "copyright": "© Roy Fokken. All rights reserved.",
+    "versionStamp": "v1 · main"
   },
   "program": {
     "hero": {

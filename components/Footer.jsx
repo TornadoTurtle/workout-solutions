@@ -18,7 +18,10 @@ export default function Footer() {
         </div>
         <div className="text-ash text-xs space-y-2 sm:text-right">
           <div className="uppercase tracking-[0.24em]">{t('languages')}</div>
-          <div>© {year} · {t('copyright').replace(/^©\s*/, '')}</div>
+          <div className="flex flex-wrap gap-x-3 gap-y-1 sm:justify-end">
+            <span>© {year} · {t('copyright').replace(/^©\s*/, '')}</span>
+            <span className="text-ash/60 uppercase tracking-[0.18em]">{t('versionStamp')}</span>
+          </div>
         </div>
       </div>
     </footer>
